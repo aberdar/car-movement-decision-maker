@@ -1,0 +1,4 @@
+red, yellow, green   , can-move, get-ready, to-be-cautious
+off, off   , off     , yes     , no       , yes
+on , off   , off     , no      , no       , yes
+on , off   , blinking, yes     , no       , yes
